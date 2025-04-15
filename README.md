@@ -4,7 +4,7 @@ Welcome to the Luxembourg driving dataset (LuxDrive-Dataset) repository, a funda
 
 ## Publication
 For a comprehensive understanding of the dataset and its applications, we recommend referring to our research paper " **Cooperative Perception using V2X Communications: An Experimental Study**":
-- [Read the Full Paper (PDF)]
+- [Read the Full Paper (PDF)](https://ieeexplore.ieee.org/document/10757448)
 
 ### Citation:
 If you use this dataset in your research, please use the following citation:
